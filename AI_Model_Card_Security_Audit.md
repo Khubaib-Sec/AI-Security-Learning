@@ -11,11 +11,11 @@
 
 The hands-on portion of this room placed me in front of a simulated HuggingFace-style repository. My task was to audit the model card for `trustedai-lab/enterprise-classifier-v2` and identify every red flag before enterprise integration.
 
+<img width="913" height="727" alt="image" src="https://github.com/user-attachments/assets/0eb5f9aa-4b66-4f0c-9b30-a96bf5293158" />
+
 I worked through the model card systematically — training data, known limitations, evaluation results, and licensing — categorising each finding by severity and writing my reasoning. This is how I approached it.
 
-<img width="913" height="727" alt="image" src="https://github.com/user-attachments/assets/0eb5f9aa-4b66-4f0c-9b30-a96bf5293158" />
 <img width="922" height="738" alt="image" src="https://github.com/user-attachments/assets/1dabf8c5-164f-4962-ac5b-8aba5292b72f" />
-<img width="942" height="742" alt="image" src="https://github.com/user-attachments/assets/41418ed1-6c90-4cf3-ad9c-ee1cba759bd4" />
 
 ---
 
