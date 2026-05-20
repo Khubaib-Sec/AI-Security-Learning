@@ -162,11 +162,9 @@ Date:    April 15, 2026
 
 - [TryHackMe — AI Models & Data](https://tryhackme.com/room/aimodelsdata)
 - [TryHackMe — AI/ML Security Threats](https://tryhackme.com/room/aimlsecuritythreats) (prerequisite room)
-- [My full walkthrough on Medium](https://medium.com/@RosanaFS/ai-model-card-security-audit-ai-models-data-ai-security-tryhackme-walkthrough-6cac0cd9f313)
-- [Model Cards for Model Reporting — Mitchell et al., Google Research](https://arxiv.org/abs/1810.03993)
-- [Common Crawl](https://commoncrawl.org/)
+
 
 ---
 
-*This write-up is part of my [TryHackMe Cybersecurity Journey](https://github.com/RosanaFSS/TryHackMe_Cybersecurity_Journey) on GitHub.*
-*Connect with me on [LinkedIn](https://www.linkedin.com/in/rosanafssantos/) · [Medium](https://medium.com/@RosanaFS) · [GitHub](https://github.com/RosanaFSS)*
+*This write-up is part of my [TryHackMe Cybersecurity Journey](https://github.com/Khubaib-Sec/AI-Security-Learning/tree/main) on GitHub.*
+*Connect with me on [LinkedIn](https://www.linkedin.com/in/muhammad-khubaib-9b4889244/)*
