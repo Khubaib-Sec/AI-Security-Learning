@@ -7,13 +7,7 @@
 
 ---
 
-## Why I Took This Room
 
-Before this room, I understood that AI models carry risk — but I did not have the language or the framework to articulate *where* those risks actually live. I wanted to be able to look at a model someone brings into an organisation and ask the right questions, not just accept it because it has a high accuracy score on a benchmark. This room gave me exactly that.
-
-It is part of my AI Security learning path on TryHackMe, and it bridges something I had been missing: the gap between theoretical concepts like data provenance and the practical ability to sit in front of a model card and know what to look for.
-
----
 
 ## What I Learned — Concept by Concept
 
@@ -80,6 +74,10 @@ Knowing this changes how I read a model card. The absence of documentation is it
 The hands-on portion of this room placed me in front of a simulated HuggingFace-style repository. My task was to audit the model card for `trustedai-lab/enterprise-classifier-v2` and identify every red flag before enterprise integration.
 
 I worked through the model card systematically — training data, known limitations, evaluation results, and licensing — categorising each finding by severity and writing my reasoning. This is how I approached it.
+
+<img width="913" height="727" alt="image" src="https://github.com/user-attachments/assets/0eb5f9aa-4b66-4f0c-9b30-a96bf5293158" />
+<img width="922" height="738" alt="image" src="https://github.com/user-attachments/assets/1dabf8c5-164f-4962-ac5b-8aba5292b72f" />
+<img width="942" height="742" alt="image" src="https://github.com/user-attachments/assets/41418ed1-6c90-4cf3-ad9c-ee1cba759bd4" />
 
 ---
 
