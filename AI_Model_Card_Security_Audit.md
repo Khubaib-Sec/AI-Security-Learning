@@ -4,7 +4,6 @@
 > **Learning Path:** AI Security → AI Fundamentals → Room 3 of 6
 > **Completed:** April 15, 2026
 > **Platform:** [TryHackMe — AI Models & Data](https://tryhackme.com/room/aimodelsdata)
-> **Written by:** [Rosana F. S. Sanchez](https://github.com/RosanaFSS) · [Full Walkthrough on Medium](https://medium.com/@RosanaFS/ai-model-card-security-audit-ai-models-data-ai-security-tryhackme-walkthrough-6cac0cd9f313)
 
 ---
 
